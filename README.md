@@ -4,8 +4,11 @@ A powerful deep learning project for image classification using Convolutional Ne
 
 # Key Features
 Implemented CNN architecture with TensorFlow and Keras for image classification.
+
 Leveraged transfer learning with InceptionV3 for improved model performance.
+
 Achieved impressive accuracy on the challenging cat/dog dataset.
+
 Clean, well-documented code for easy understanding and future enhancements.
 
 # Dependencies
